@@ -18,9 +18,6 @@
 Welcome to the Calculator project! This is a simple and intuitive web application that allows you to perform basic arithmetic operations including addition, subtraction, multiplication, and division.
 
 
-Sure! Here’s an improved version of your README with added details to enhance the presentation:
-
-
 ## Features
 
 - **Addition:** Add two numbers.
